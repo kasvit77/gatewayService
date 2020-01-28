@@ -23,4 +23,4 @@ $app->get('/items[/{id:[0-9]+}]', function (Request $request, Response $response
 
 });
 $app->run();
-phpinfo();
+//phpinfo();
