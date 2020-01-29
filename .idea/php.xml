@@ -7,11 +7,8 @@
       <path value="$PROJECT_DIR$/vendor/slim/slim" />
       <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
       <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
-      <path value="$PROJECT_DIR$/vendor/predis/examples" />
-      <path value="$PROJECT_DIR$/vendor/predis/.git" />
-      <path value="$PROJECT_DIR$/vendor/predis/src" />
-      <path value="$PROJECT_DIR$/vendor/predis/tests" />
-      <path value="$PROJECT_DIR$/vendor/predis/bin" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

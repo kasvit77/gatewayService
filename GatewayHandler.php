@@ -26,7 +26,7 @@ class GatewayHandler
     public function handle($id){
 
        $result=$this->service->pushPosts($id);
-        $result=$this->redis->Save($id);
+       $result=$this->redis->Save($id);
        return $result;
 
     }

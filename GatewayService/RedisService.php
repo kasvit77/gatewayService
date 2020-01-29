@@ -1,5 +1,5 @@
 <?php
-require 'vendor/predis/autoload.php';
+require 'vendor/predis/predis/autoload.php';
 require 'GatewayService/redis/RedisClient.php';
 use Predis\Autoloader;
 
