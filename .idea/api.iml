@@ -4,6 +4,10 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/fast-route" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/predis/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/predis/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/predis/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/predis/tests" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/slim/slim" />
